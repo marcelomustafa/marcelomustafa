@@ -83,6 +83,9 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
   <a href="https://join.skype.com/invite/AEWokncQPDcC" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="marcelo.mustafa" height="20 width="30"/>
   </a>	
+  <a href="skype:marcelo.mustafa?chat" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="marcelo.mustafa" height="20 width="30"/>
+  </a>		
   <a href="mailto:marcelo.mustafa@gmail.com" target="blank">
    <img align="center" src="https://w7.pngwing.com/pngs/970/517/png-transparent-gmail-logo-illustration-gmail-computer-icons-email-logo-gmail-angle-text-rectangle-thumbnail.png" alt="marcelo.mustafa@gmail.com" height="20 width="30"/>
   </a>	
