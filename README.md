@@ -1,11 +1,10 @@
+![quadro-decoracao-44x30-cm-quadro-wide](https://user-images.githubusercontent.com/49598324/167267676-29163ae7-cdb6-4745-b3b5-3e9ff09f0bc7.jpg)
 
+<h3 align="left">Hi 👋, I'm Marcelo Mustafa</h3>
 
-
-<h4 align="left">Hi 👋, I'm Marcelo Mustafa</h4>
-
-<h4 align="justify">
+<p align="justify">
 Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
-</h4>
+</p>
 
 <h4 align="left">Habilidades Pessoais:</h4>
 <p align="justify">
