@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Marcelo Mustafa</h1>
+<h2 align="center">Hi 👋, I'm Marcelo Mustafa</h2>
 
-<h4 align="left">
+<h4 align="justify">
 Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
 </h4>
 
-- 🌱 I’m currently learning **Spring, Angular and Flutter/Dart**
-
+<h4 align="left">Habilidades Pessoais:</h4>
+<p align="justify">
+Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmica de processos, resiliência, persistência e capacidade em estabelecer uma comunicação de confiança com equipe e clientes.
+<p>
+	
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   
@@ -63,6 +66,9 @@ Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas admi
   </a>
 
 </p>
+
+- 🌱 I’m currently learning **Spring, Angular and Flutter/Dart**
+
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
