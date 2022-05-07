@@ -74,17 +74,19 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-	<a href="https://linkedin.com/in/marcelomustafa" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelomustafa" height="20 width="30"/>
-	</a>
-	<a href="https://instagram.com/druidayue" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="druidayue" height="20" width="30"/>
-	</a>	
-	<a href="https://join.skype.com/invite/AEWokncQPDcC" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="marcelo.mustafa" height="20 width="30"/>
-	</a>	
+  <a href="https://linkedin.com/in/marcelomustafa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelomustafa" height="20 width="30"/>
+  </a>
+  <a href="https://instagram.com/druidayue" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="druidayue" height="20" width="30"/>
+  </a>	
+  <a href="https://join.skype.com/invite/AEWokncQPDcC" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="marcelo.mustafa" height="20 width="30"/>
+  </a>	
+  <a href="marcelo.mustafa@gmail.com" target="blank">
+   <img align="center" src="https://w7.pngwing.com/pngs/970/517/png-transparent-gmail-logo-illustration-gmail-computer-icons-email-logo-gmail-angle-text-rectangle-thumbnail.png" alt="marcelo.mustafa@gmail.com" height="20 width="30"/>
+  </a>	
 </p>
-
 
 <!--
 ### Hi there 👋
