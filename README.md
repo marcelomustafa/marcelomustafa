@@ -1,4 +1,4 @@
-![quadro-decoracao-44x30-cm-quadro-wide](https://user-images.githubusercontent.com/49598324/167267676-29163ae7-cdb6-4745-b3b5-3e9ff09f0bc7.jpg)
+![quadro-decoracao-44x30-cm-quadro-wide-2](https://user-images.githubusercontent.com/49598324/167268033-e51e7f64-0a83-49a7-9911-2200c4b335ff.jpg)
 
 <h3 align="left">Hi 👋, I'm Marcelo Mustafa</h3>
 
