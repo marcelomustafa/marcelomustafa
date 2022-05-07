@@ -1,4 +1,4 @@
-![quadro-decoracao-44x30-cm-quadro](https://user-images.githubusercontent.com/49598324/167267301-f0dffeec-70fb-4742-bc68-0e385139a809.jpg)
+
 
 
 <h4 align="left">Hi 👋, I'm Marcelo Mustafa</h4>
