@@ -11,7 +11,7 @@ Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas admi
 Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmica de processos, resiliência, persistência e capacidade em estabelecer uma comunicação de confiança com equipe e clientes.
 <p>
 	
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Linguagens e Ferramentas:</h4>
 <p align="left">
   
   <!--BACK-->
