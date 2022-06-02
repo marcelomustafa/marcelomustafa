@@ -1,6 +1,6 @@
 ![quadro-decoracao-44x30-cm-quadro-wide-2](https://user-images.githubusercontent.com/49598324/167268033-e51e7f64-0a83-49a7-9911-2200c4b335ff.jpg)
 
-<h3 align="left">Hi 👋, I'm Marcelo Mustafa</h3>
+<h3 align="left">Olá 👋, Eu sou o Marcelo</h3>
 
 <p align="justify">
 Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
@@ -69,10 +69,10 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
 
 </p>
 
-- 🌱 I’m currently learning **Spring, Angular and Flutter/Dart**
+- 🌱 Estou atualmente aprendendo **Spring, Angular and Flutter/Dart**
 
 <br>
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Entre em contato comigo:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/marcelomustafa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelomustafa" height="20 width="30"/>
