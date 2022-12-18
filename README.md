@@ -3,7 +3,7 @@
 <h3 align="left">Olá 👋, Eu sou o Marcelo</h3>
 
 <p align="justify">
-Com 18 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
+Com 19 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
 </p>
 
 <h4 align="left">Habilidades Pessoais:</h4>
