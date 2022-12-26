@@ -77,8 +77,8 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
   <a href="https://linkedin.com/in/marcelomustafa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelomustafa" height="20 width="30"/>
   </a>
-  <a href="https://instagram.com/druidayue" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="druidayue" height="20" width="30"/>
+  <a href="https://instagram.com/tiomustafa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiomustafa" height="20" width="30"/>
   </a>	
   <a href="https://join.skype.com/invite/AEWokncQPDcC" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="marcelo.mustafa" height="20 width="30"/>
