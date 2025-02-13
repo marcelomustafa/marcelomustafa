@@ -53,7 +53,7 @@ Com 20 anos de experiÃªncia no desenvolvimento de sistemas, atuei nos setores pÃ
   </a>
 
   <a href="https://docs.camunda.org/manual/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/camunda/camunda-icon.svg" alt="camunda" width="30" height="30"/> 
+    <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" alt="camunda" width="30" height="30"/> 
   </a>
 
   <!--FRONT-->
