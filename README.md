@@ -103,6 +103,7 @@ Com 20 anos de experiÃªncia no desenvolvimento de sistemas, atuei nos setores pÃ
   </a>
 
 </p>
+<br>
 
 <h4 align="left">Cursos Livres:</h4>
 <p align="left">
