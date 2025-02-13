@@ -3,14 +3,39 @@
 <h3 align="left">Olá 👋, Eu sou o Marcelo</h3>
 
 <p align="justify">
-Com 19 anos de experiência em desenvolvimento de sistemas atuei nas áreas administrativas privada e pública, contábil, comercial, e de automação e supervisão industrial. Durante esse tempo desenvolvi minhas habilidades para compreensão das necessidades apresentadas nos projetos, oferecendo soluções aderentes aos requisitos e necessidades dos clientes.
+Com 20 anos de experiência no desenvolvimento de sistemas, atuei nos setores público e privado, abrangendo as áreas administrativa, contábil, comercial, além de automação e supervisão industrial. Minha principal abordagem é compreender as necessidades dos processos e utilizar os recursos disponíveis para oferecer soluções práticas e aderentes aos negócios dos clientes. Minha experiência, somada à flexibilidade e pensamento analítico, facilita a integração eficiente de processos e equipes. Atualmente, busco aprofundar meus conhecimentos para projetar sistemas organizados, sustentáveis e alinhados às necessidades dos projetos em que atuo.
 </p>
 
+<h4 align="left">Formação:</h4>
+<p align="left">
+	
+  <p>
+    <b>Pós-Graduação em Arquitetura de Software, Cibersegurança e Big Data</b><br>  
+    PUCPR – Conclusão prevista em Dez/2025<br>
+    Foco em padrões de arquitetura, segurança da informação e análise de grandes volumes de dados.
+  </p>
+
+  <p>
+    <b>Extensão em Redes</b><br>  
+    Anhanguera – Conclusão prevista em Jun/2025
+  </p>
+
+  <p>
+    <b>Graduação em Análise e Desenvolvimento de Sistemas</b><br>  
+    Estácio de Sá – Concluído em Dez/2021
+  </p>
+  
+</p>
+<!--
 <h4 align="left">Habilidades Pessoais:</h4>
 <p align="justify">
-Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmica de processos, resiliência, persistência e capacidade em estabelecer uma comunicação de confiança com equipe e clientes.
+* Adaptação rápida a mudanças e desafios<br>
+* Resiliência e persistência na solução de problemas<br>
+* Pensamento analítico e abordagem estruturada para tomada de decisão<br>
+* Capacidade de integrar processos de negócios e tecnologia<br>
+* Comunicação clara e colaborativa com equipes e clientes
 <p>
-	
+-->	
 <h4 align="left">Linguagens e Ferramentas:</h4>
 <p align="left">
   
@@ -27,13 +52,19 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
   </a>
 
+  <a href="https://docs.camunda.org/manual/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/camunda/camunda-icon.svg" alt="camunda" width="30" height="30"/> 
+  </a>
+
   <!--FRONT-->
+  <!--
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="30" height="30"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="30" height="30"/> 
   </a>
+  -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
   </a>
@@ -44,13 +75,15 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
   </a>  
   
   <!--MOBILE-->
+  <!--
    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>
   </a>
- 
+  -->
+  
   <!--DATABASE-->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/>
@@ -58,9 +91,11 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
   </a>
+  <!--
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
   </a>
+  -->
   
   <!--DEVOPS-->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -69,8 +104,46 @@ Flexível com mudanças e adaptações, facilidade em obter uma visão sistêmic
 
 </p>
 
-- 🌱 Estou atualmente aprendendo **Spring, Angular and Flutter/Dart**
+<h4 align="left">Cursos Livres:</h4>
+<p align="left">
+  <p>
+  <b>Java com Arquitetura e Padrões de Projetos</b> (por Alura Out/2023)<br>
+    - Design Patterns, SOLID, BDD, TDD, JUnit, Selenium, Cucumber, DDD e Clean Architecture.
+    </p>
+  <p>
+  <b>Formação Power BI</b> (por Alura Jul/2023)<br>
+    - Construção e Publicação de Dashboard, Linguagens M e Dax, Power Query.
+    </p>
+  <p>
+    <b>Imersão Ágil Bootcamp</b> (por Patrícia Barbosa Jun/2023)<br>
+    - Metodologia ágil, com ênfase em Scrum, Kanban e gerenciamento de processo com Azure DevOps.
+  </p>
+  <p>
+    <b>Spring Security Bootcamp</b> (por Michelli Brito Jul/2022)<br>
+    - Autenticação, autorização, JWT com Spring Boot.
+  </p>
+  <p>
+    <b>JPA Bootcamp</b> (por AlgaWorks Jun/2022)<br>
+    - Persistência de dados, mapeamento objeto-relacional, consultas JPQL e Critério API com Spring Data JPA. 
+  </p>
+  <p>
+   <b>Lambda, Streams, Optional e Time API Bootcamp</b> (por Rinaldo Pitzer Jun/2022)<br>
+   - Programação funcional, manipulação de coleções, tratamento de valores nulos e trabalhar com datas e horas com Java 8.
+  </p>
+  <p>
+    <b>Spring Boot Bootcamp</b> (por Michelli Brito Mai/2022)<br>
+    - Desenvolvimento web, API Rest, validação de dados com Spring Boot.
+  </p>
+  <p>	  
+    <b>Análise Ponto de Função</b> (por FattoCS Dez/2017)<br>
+    - Medição de tamanho funcional de software, contagem de pontos de função e estimativa de esforço e custo.
+  </p>
+  
+</p>
 
+<!--
+- 🌱 Estou atualmente aprendendo **Spring, Angular and Flutter/Dart**
+-->
 <br>
 <h4 align="left">Entre em contato comigo:</h4>
 <p align="left">
