@@ -16,7 +16,7 @@ Com 20 anos de experiência no desenvolvimento de sistemas, atuei nos setores p�
   </p>
 
   <p>
-    <b>Extensão em Redes</b><br>  
+    <b>Extensão em Redes de Computadores</b><br>  
     Anhanguera – Conclusão prevista em Jun/2025
   </p>
 
