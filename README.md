@@ -98,7 +98,7 @@ Com 20 anos de experiÃªncia no desenvolvimento de sistemas, atuei nos setores pÃ
   -->
   
   <!--DEVOPS-->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a>
 
